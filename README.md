@@ -1,19 +1,19 @@
-# This a translator application for a low resource language of Manguna district, Bokkos LGA of Plateau state, Nigeria
+## This is a translator application for a low resource language of Manguna district, Bokkos LGA of Plateau state, Nigeria
 
-## The applicaion is built by Madaki Fatsen Timon.
+#### The applicaion is built by Madaki Fatsen Timon.
 
-## Create virtual environment. This project didn't have a virtual environment when it was developed but it is recommended you have one
+### Create virtual environment. This project didn't have a virtual environment when it was developed but it is recommended you have one
 python -m venv venv
 source venv/bin/activate  # activate virtual env. on Linux/Mac
 venv\Scripts\activate     # activate virtual env. on Windows
 
-## Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-## Install this from the terminal, for POS tagging
+### Install this from the terminal, for POS tagging
 python -m spacy download en_core_web_sm
 
-## Running the API
+### Running the API
 uvicorn app.main:app --reload
 
 #### The API will be live at:
