@@ -1,0 +1,12 @@
+Ron_translator/
+ ├── app/
+ │   ├── main.py          # FastAPI app (endpoints)
+ │   ├── translator.py    # Translation logic
+ │   └── clean_data.py    # Data cleaning + preprocessing
+ └── data/
+        ├── english_ron_pair.tsv   # Raw data
+        ├── cleaned_pairs.csv      # Processed dictionary
+        └── feedback_queue.csv     # User feedback
+├── Project_structure
+├── README.md                   # Project overview
+└── requirements.txt            # Project dependencies

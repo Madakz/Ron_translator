@@ -1,0 +1,1180 @@
+en,ron,english,pos,domain
+person (homo),"naáf, maɗafal",person (homo),NOUN,general
+people,naf,people,NOUN,general
+man (opp. woman),nárì,man (opp. woman),PROPN,general
+"woman (opp.
+man)",nufuy pl. asiŋgí,woman (opp. man),NOUN,general
+female,nufuy,female,NOUN,general
+male,nárì,male,NOUN,general
+friend,jèmàt,friend,NOUN,general
+friend (male),jema,friend (male),NOUN,general
+friend (fem.),jam,friend (fem.),NOUN,general
+"possessor, owner",naáf á ɗa,"possessor, owner",PROPN,general
+liar,naáf á lan,liar,NOUN,general
+blind,á nzyaw,blind,ADJ,general
+lame,"ákûn, ʃigyák",lame,ADJ,general
+deaf,ndwîʃ,deaf,ADJ,general
+dumb (mute),halíŋ,dumb (mute),NOUN,general
+insane,naáf á nyááf,insane,ADJ,general
+drunk,fîl,drunk,ADJ,general
+lazy,njoŋát,lazy,ADJ,general
+name,súm,name,NOUN,general
+pregnancy,gáà túk,pregnancy,NOUN,general
+pregnant,músá ti gaa túk,pregnant,ADJ,general
+menstruation,gúlá à tinda,menstruation,NOUN,general
+"hunger, famine",hjem,"hunger, famine",NOUN,general
+thirst,séfèf,thirst,VERB,general
+hiccough,hatí’,hiccough,PROPN,general
+itch,yiró,itch,VERB,general
+tiredness,ʃuál,tiredness,NOUN,general
+life,"mafós, cérèl",life,NOUN,general
+death,mótòt,death,NOUN,general
+sleep,yina,sleep,NOUN,general
+dream n.,ambar,dream n.,NOUN,general
+laugh,ligát,laugh,VERB,general
+desire,"fûk, gwêl",desire,VERB,general
+strength,ŋgaɗá,strength,NOUN,general
+cleverness,sisjeŋát,cleverness,ADJ,general
+fear,kucirat,fear,VERB,general
+jealousy,nadôn,jealousy,NOUN,general
+lie,lan,lie,VERB,general
+doubt,akó wul,doubt,VERB,general
+shame,ʃiʃó,shame,PROPN,general
+courage,ŋgaɗá tá kó,courage,NOUN,general
+truth,awéy,truth,NOUN,general
+body,yici,body,NOUN,general
+skin,ryaw,skin,NOUN,general
+flesh,liw,flesh,NOUN,general
+head,xáy,head,NOUN,general
+skull,xáy,skull,NOUN,general
+brain,wúf,brain,NOUN,general
+bone,ŋgíʃaw,bone,NOUN,general
+face,yirí,face,VERB,general
+forehead,"aní, wôní",forehead,PROPN,general
+eye,yirí,eye,NOUN,general
+ear,kúme,ear,X,general
+nose,átín,nose,NOUN,general
+mucus,ʃêm,mucus,PROPN,general
+cheek,"agugur, aŋgbakám",cheek,VERB,general
+mouth,wo,mouth,NOUN,general
+lip,mbunin,lip,NOUN,general
+tongue,alés,tongue,NOUN,general
+language,alés,language,NOUN,general
+tooth,agíraw,tooth,PROPN,general
+molar,ɓukum,molar,PROPN,general
+jaw,agâltám,jaw,ADV,general
+chin,gúmèt,chin,PROPN,general
+beard,ʃaŋ mí gùmèt,beard,PROPN,general
+hair (head),ʃáŋ hay,hair (head),NOUN,general
+body hair,ʃáŋ,body hair,NOUN,general
+neck,áɗúl,neck,NOUN,general
+throat,aŋgóròt,throat,NOUN,general
+nape (of neck),asáraŋ máɗul,nape (of neck),NOUN,general
+shoulder,"ʃakót, fumwel",shoulder,NOUN,general
+breast (female),fóf,breast (female),NOUN,general
+chest,àcà,chest,NOUN,general
+heart,akó,heart,NOUN,general
+liver,nín,liver,NOUN,general
+kidney,láùnjàr,kidney,NOUN,general
+belly (external),túk,belly (external),PROPN,general
+"stomach
+(internal)",túk,stomach (internal),NOUN,general
+navel,mutuk,navel,NOUN,general
+arm,kurú,arm,NOUN,general
+armpit,ŋgbét á jol,armpit,PROPN,general
+elbow,kukwat,elbow,NOUN,general
+hand,jol,hand,NOUN,general
+finger,wí jol,finger,NOUN,general
+claw,agísindáw,claw,NOUN,general
+fist,kutúm jol,fist,PROPN,general
+leg,ʃií,leg,PROPN,general
+foot,àpàs á ʃií,foot,NOUN,general
+knee,arum,knee,NOUN,general
+thigh,fôr,thigh,NOUN,general
+shin (bone),asandaw,shin (bone),PROPN,general
+heel,tutut á ʃi,heel,VERB,general
+back,wí,back,ADV,general
+anus,mùryàt,anus,NOUN,general
+penis,didís,penis,NOUN,general
+testicles,ʃuŋgwal,testicles,NOUN,general
+vagina,mbukòl,vagina,PROPN,general
+ribs,ʃímba,ribs,NOUN,general
+lungs,pòʃòʃ,lungs,NOUN,general
+vein,ʃer a jol,vein,ADV,general
+sinew,tutút,sinew,VERB,general
+"intestines, guts",yinji,"intestines, guts",NOUN,general
+voice,aɗul,voice,NOUN,general
+milk,fóf,milk,NOUN,general
+"saliva, spittle",yílá,"saliva, spittle",PROPN,general
+tear,yíla (a yirí),tear,NOUN,general
+blood,inzom,blood,NOUN,general
+urine,njár,urine,NOUN,general
+excrements,fí’,excrements,NOUN,general
+bone marrow,atífyór,bone marrow,NOUN,general
+thing,ɗa,thing,NOUN,general
+smell,andó,smell,NOUN,general
+"dirt, filth",gùk,"dirt, filth",NOUN,general
+end,marál,end,NOUN,general
+heap,musó’,heap,NOUN,general
+hole,ɓo,hole,NOUN,general
+few,vaùt,few,ADJ,general
+some,mî,some,PRON,general
+all,ʃàk,all,PRON,general
+"many, much",hyáŋ,"many, much",ADV,general
+"big, large, great",mban,"big, large, great",ADJ,general
+small,va:t,small,ADJ,general
+long (of stick),lá’,long (of stick),ADV,general
+short (of stick),rweʃ,short (of stick),ADJ,general
+deep,ɗorol,deep,ADJ,general
+high,lá’,high,ADJ,general
+thin,céŋ,thin,ADJ,general
+thick (fat),ró’,thick (fat),ADJ,general
+new,hwóy,new,ADJ,general
+old (opp. new),hórèl,old (opp. new),PROPN,general
+young,va:t,young,ADJ,general
+dirty,má gùk,dirty,ADJ,general
+clean,mâ tón,clean,ADJ,general
+bitter,mâ tanda,bitter,ADJ,general
+sour,mâ mwés,sour,ADJ,general
+wet,mâ lo,wet,PROPN,general
+dry,mâ nze’,dry,ADJ,general
+hot,mâ hoùr,hot,ADJ,general
+warm,mâ lamwan,warm,ADJ,general
+cold,má ɗiùr,cold,ADJ,general
+good,mâ ton,good,ADJ,general
+bad,mâ tâʃ,bad,ADJ,general
+ugly,mâ tâʃ,ugly,ADJ,general
+"right, correct",giga’,"right, correct",ADJ,general
+heavy,mâ dun,heavy,ADJ,general
+"light (not
+heavy)",mâ dun gwà,light (not heavy),NOUN,general
+sharp,mâ wo’,sharp,ADJ,general
+pointed,mâ sambet,pointed,VERB,general
+full,mâ kyálàk,full,ADJ,general
+hollow,ahoŋgó,hollow,ADJ,general
+hard,ma ŋgaɗá,hard,ADJ,general
+difficult,má ʃùm,difficult,ADJ,general
+rotten,mâ nyeùr,rotten,ADJ,general
+"wide, large",mâ bibaŋ,"wide, large",ADJ,general
+narrow,má bibaŋ gwa,narrow,ADJ,general
+round,mâ ʃiral,round,ADJ,general
+smooth,"mâ mu’, mâ",smooth,PROPN,general
+crooked,mâ mahuriʃ,crooked,ADJ,general
+straight,mâ muzár,straight,ADV,general
+other,mây káŋ,other,ADJ,general
+alone,cyès,alone,ADV,general
+who?,mwáù,who?,PRON,general
+what?,anáù,what?,PRON,general
+with,i gúlát,with,ADP,general
+place,jíl,place,NOUN,general
+near,íŋgás,near,ADP,general
+far,gàlàŋ,far,ADV,general
+here,nánì,here,ADV,general
+there,títjêy,there,PRON,general
+when?,táɗí,when?,SCONJ,general
+where?,áùlì,where?,SCONJ,general
+"in, at",í,"in, at",ADP,general
+inside,í ɗjen,inside,ADV,general
+outside,í ɓoón,outside,ADV,general
+side,tí ɓyáw,side,NOUN,general
+left side,ɓyáw àkùtyal,left side,VERB,general
+right side,àwuùɗjen,right side,NOUN,general
+in front,í wo,in front,ADP,general
+behind,tá ɗiwi,behind,ADV,general
+above,ɗifit,above,ADV,general
+under,ɗjen,under,ADP,general
+across,lugwáùt,across,ADP,general
+straight on,muzár,straight on,ADV,general
+between,í sa,between,ADP,general
+middle,sá,middle,ADJ,general
+in the middle of,í sa,in the middle of,ADP,general
+I,yín,i,PRON,general
+you (thou),yá,you (thou),PRON,general
+"you (thou)
+(fem.)",yíʃ,you (thou) (fem.),PRON,general
+he,sí,he,PRON,general
+she,tí,she,PRON,general
+we (incl.),njá,we (incl.),PRON,general
+we (excl.),nín,we (excl.),PRON,general
+you,kú,you,PRON,general
+they,sín,they,PRON,general
+animal,ye',animal,NOUN,general
+wild animal,ye’ áa yaw,wild animal,NOUN,general
+elephant,dìdàm,elephant,NOUN,general
+hippopotamus,ŋgiʃ (?),hippopotamus,PROPN,general
+tusk,anzâŋ,tusk,PROPN,general
+"bush-cow
+(buffalo)",kusáy,bush-cow (buffalo),PROPN,general
+rhinoceros,maʃom,rhinoceros,PROPN,general
+antelope (gen.),arít,antelope (gen.),PROPN,general
+gazelle (gen.),tarafyáw,gazelle (gen.),PROPN,general
+giraffe,marɗuŋ,giraffe,PROPN,general
+wart-hog,vyer,wart-hog,NOUN,general
+baboon,waŋgay,baboon,PROPN,general
+monkey (gen.),keraŋ,monkey (gen.),PROPN,general
+chimpanzee,párám,chimpanzee,PROPN,general
+mongoose,ndúrùm,mongoose,NOUN,general
+"squirrel
+(ground-)",ɗíme:r,squirrel (ground-),PROPN,general
+mouse,guróm,mouse,PROPN,general
+rat (gen.),guróm,rat (gen.),PROPN,general
+shrew,únzòf,shrew,VERB,general
+rabbit,awé:r,rabbit,NOUN,general
+hare,awé:r,hare,PROPN,general
+hedgehog,ndiŋkáʃ,hedgehog,PROPN,general
+porcupine,ŋgût,porcupine,NOUN,general
+wild cat sp.,"aŋáw (?), tùndúri",wild cat sp.,NOUN,general
+leopard,rwàn,leopard,NOUN,general
+lion,kúkùm,lion,NOUN,general
+hyena,murûm,hyena,PROPN,general
+jackal,kórò’,jackal,NOUN,general
+snake (gen.),ɗamùlulul,snake (gen.),PROPN,general
+python,nyís,python,PROPN,general
+viper,àkumbo,viper,NOUN,general
+spitting cobra,yírúm,spitting cobra,NOUN,general
+lizard (gen.),akúmbél,lizard (gen.),PROPN,general
+"agama lizard
+(red-headed)",ragbóŋ,agama lizard (red-headed),PROPN,general
+crocodile,hàràm,crocodile,PROPN,general
+gecko,atáɓúlès,gecko,NOUN,general
+monitor,ákôr,monitor,PROPN,general
+chameleon,akala,chameleon,NOUN,general
+crab,ŋgyaráw,crab,PROPN,general
+frog,azîw,frog,NOUN,general
+toad,pwoɗak,toad,NOUN,general
+snail,andák,snail,NOUN,general
+tortoise,àkùr,tortoise,PROPN,general
+fish (gen.),gwoʃé,fish (gen.),PROPN,general
+bird,ɗeéʃ,bird,NOUN,general
+nest,àwúrì,nest,NOUN,general
+cattle egret,kapíyà,cattle egret,ADJ,general
+crested crane,ŋarát,crested crane,NOUN,general
+crow,ahaŋ,crow,NOUN,general
+dove,àrugutùm,dove,NOUN,general
+pigeon,àmbóɓóp,pigeon,NOUN,general
+bush fowl,nukwé,bush fowl,NOUN,general
+eagle,àkìm,eagle,PROPN,general
+"hawk, falcon","àgbwèr (hawk), akpakpóŋ (falcon)","hawk, falcon",INTJ,general
+kite (black-),ahwálá,kite (black-),PROPN,general
+ostrich,asyawá,ostrich,NOUN,general
+owl,àwùmà,owl,NOUN,general
+bat,"aɗesés (small sp.), àtàránjò (big sp.)",bat,NOUN,general
+"ant (big, black)",àtágàrà,"ant (big, black)",ADJ,general
+ant (red),púrí tí gúròm,ant (red),ADJ,general
+"ant (small,
+black)",anzényet,"ant (small, black)",ADJ,general
+ant-hill,agandáw,ant-hill,NOUN,general
+termite,yuw,termite,PROPN,general
+termite mound,agandáw,termite mound,NOUN,general
+housefly,akúkwyaŋ,housefly,VERB,general
+mosquito,awareŋ,mosquito,NOUN,general
+wasp,àhàr â gimbit,wasp,PROPN,general
+butterfly,àlàk á bìbìl,butterfly,NOUN,general
+caterpillar,jijíríŋ,caterpillar,PROPN,general
+centipede,ŋgyer tí canan,centipede,VERB,general
+worm (gen.),"rùmbùs (larvae), anzúr (worm)",worm (gen.),PROPN,general
+bug,àwareŋ,bug,NOUN,general
+louse,tí’,louse,NOUN,general
+flea,húsí,flea,PROPN,general
+tick,tundús,tick,VERB,general
+cricket,akáwen,cricket,NOUN,general
+grasshopper,"àràŋgàʃ, kaká’, laŋgáʃ",grasshopper,NOUN,general
+locust,tuwál,locust,NOUN,general
+spider,"àʃáŋàŋ, yiw",spider,VERB,general
+cobweb,lá tà ʃáŋàŋ,cobweb,PROPN,general
+mantis,gigyalóŋ,mantis,NOUN,general
+scorpion,ŋgyer,scorpion,NOUN,general
+"sting, quill",aɗúl,"sting, quill",PROPN,general
+"sting (bee, ant, scorpion)",têf,"sting (bee, ant, scorpion)",NOUN,general
+"domestic
+animal","yé’, safát",domestic animal,NOUN,general
+female animal,atís,female animal,NOUN,general
+male animal,awus,male animal,NOUN,general
+horse,púrí,horse,NOUN,general
+mare,atís á púrí,mare,NOUN,general
+dog,káɓwì,dog,NOUN,general
+cat,mus,cat,NOUN,general
+cattle,randóŋ,cattle,NOUN,general
+cow,atís á randóŋ,cow,NOUN,general
+bull,awus á randóŋ,bull,NOUN,general
+calf,wí ti randóŋ,calf,NOUN,general
+goat,dàràm,goat,PROPN,general
+she-goat,atís á dàràm,she-goat,PROPN,general
+he-goat,arúk,he-goat,PROPN,general
+kid,wúy á dàràm,kid,PROPN,general
+sheep,tumó,sheep,NOUN,general
+ewe,atís á tumó,ewe,PROPN,general
+ram,andúr,ram,VERB,general
+wether,ligés,wether,PROPN,general
+pig,"ŋgiʃ, àládè",pig,NOUN,general
+sow,atís á ŋgiʃ,sow,VERB,general
+enclosure,"àrì, kpùk, ahólóŋ",enclosure,NOUN,general
+stick,ahó’,stick,PROPN,general
+chicken,caán,chicken,NOUN,general
+chick,wi ti caán,chick,NOUN,general
+cock,kurúŋgòŋ,cock,NOUN,general
+guinea-fowl,rukúm,guinea-fowl,NOUN,general
+meat,lîw,meat,NOUN,general
+horn,njél,horn,VERB,general
+tail,burtúŋ,tail,NOUN,general
+egg,hó’,egg,NOUN,general
+wing,kurú,wing,NOUN,general
+feather,ʃáŋ,feather,PROPN,general
+crop (bird),"aŋgóròt, murgiʃ",crop (bird),NOUN,general
+dung,fi’ á safát,dung,PROPN,general
+bee,àmòt,bee,PROPN,general
+bee-keeper,naáf a wó’ àmòt,bee-keeper,NOUN,general
+bee-hive,puk á mòt,bee-hive,ADJ,general
+honey,ayin á mòt,honey,NOUN,general
+queen bee,atís á mòt,queen bee,PROPN,general
+fishing net,àjùjuk,fishing net,NOUN,general
+hook,baŋger á ger goʃé,hook,NOUN,general
+fisherman,naáf á ger goʃé,fisherman,VERB,general
+hunt,war,hunt,NOUN,general
+hunter,naáf á war,hunter,NOUN,general
+individual hunt,war,individual hunt,NOUN,general
+communal hunt,war,communal hunt,NOUN,general
+trap (pitfall),kaziriŋ,trap (pitfall),NOUN,general
+snare (trap),"daŋgor, akpwéŋ (door of a cage trap)",snare (trap),NOUN,general
+arrow,nvyâ,arrow,NOUN,general
+bow (weapon),arúk,bow (weapon),VERB,general
+quiver,la nvyà,quiver,NOUN,general
+spear,tay,spear,PROPN,general
+knife,yiʃúk,knife,NOUN,general
+club,àkwàrè,club,NOUN,general
+gun,boroŋ,gun,PROPN,general
+sling,áŋgbàŋ,sling,PROPN,general
+war,ɓúr,war,NOUN,general
+shield,ŋgurî,shield,PROPN,general
+helmet,akámbùt,helmet,NOUN,general
+spur,àgirgya,spur,NOUN,general
+riding-whip,úʃoréŋ,riding-whip,NOUN,general
+bush,"àyaw, áw",bush,PROPN,general
+forest,àriw,forest,NOUN,general
+grass,ʃala’,grass,NOUN,general
+tree,"awítyaw, àwùr",tree,NOUN,general
+wood,àwùr,wood,NOUN,general
+branch (twig),kuráy,branch (twig),PROPN,general
+trunk,úfwi á wityáw,trunk,NOUN,general
+root,ʃer,root,NOUN,general
+bark (of tree),háɓop,bark (of tree),PROPN,general
+shell (peel),háɓop,shell (peel),PROPN,general
+leaf (gen.),hú’aʃ,leaf (gen.),PROPN,general
+flower,abúf,flower,NOUN,general
+fruit,amwál,fruit,NOUN,general
+thorn,agírí,thorn,VERB,general
+straw (stalks),yíʃel,straw (stalks),NOUN,general
+grain,ʃinjá,grain,NOUN,general
+mushroom,arámbôk,mushroom,NOUN,general
+kapok,arurúk,kapok,PROPN,general
+"marrow, pulp",ʃetót,"marrow, pulp",NOUN,general
+pawpaw,akapús,pawpaw,NOUN,general
+groundnut,àyìrbá,groundnut,ADJ,general
+kolanut,gó:rò,kolanut,PROPN,general
+banana,"àyàbà, àtàrndòm",banana,PROPN,general
+cowpea,àŋgìrèm,cowpea,VERB,general
+garden egg,aʃó,garden egg,NOUN,general
+pumpkin,àmbulaŋ,pumpkin,VERB,general
+gourd,aról,gourd,PROPN,general
+guinea-yam,àmùlò’,guinea-yam,NOUN,general
+sweet potato,ruwul,sweet potato,NOUN,general
+cocoyam,ɓwàr,cocoyam,PROPN,general
+guinea corn,yaŋgon á yàs,guinea corn,NOUN,general
+millet (gen.),aŋgáy,millet (gen.),PROPN,general
+late millet (gen.),aŋgáy,late millet (gen.),PROPN,general
+"early millet,
+bulrush-millet",aŋgáy,"early millet, bulrush-millet",ADJ,general
+maize,yaŋgon ú sukpúk,maize,NOUN,general
+fonio,fo’,fonio,PROPN,general
+okra,úndana,okra,PROPN,general
+chili pepper,ambore,chili pepper,NOUN,general
+red sorrel,wanjaŋ,red sorrel,PROPN,general
+sesame,"guni’, hârfí’",sesame,PROPN,general
+palm tree,àmàʃin,palm tree,NOUN,general
+date-palm,àhàràjáw,date-palm,NOUN,general
+oil-palm,àmàʃin,oil-palm,NOUN,general
+oil-palm,àmàʃin,oil-palm,NOUN,general
+"sycamore, fig",àsùrùf,"sycamore, fig",PROPN,general
+locust,àmùral,locust,NOUN,general
+mahogany,àhàyàt,mahogany,NOUN,general
+red silk cotton,mànjù,red silk cotton,NOUN,general
+white silk cotton,mànjù,white silk cotton,NOUN,general
+shea,gò:,shea,PROPN,general
+"gum arabic
+tree, red",kisen,"gum arabic tree, red",VERB,general
+camwood,àfùʃin,camwood,VERB,general
+field(s),gòŋ,field(s),PROPN,general
+farm,gòŋ,farm,NOUN,general
+"cultivated
+ground (field)","suŋgul, tuúr",cultivated ground (field),NOUN,general
+"fallow, unfarmed land",korós,"fallow, unfarmed land",NOUN,general
+soil,là’,soil,NOUN,general
+"fence (around
+farm)",àrì,fence (around farm),NOUN,general
+seed,arés,seed,NOUN,general
+hoe (gen.),ʃité’ a vát,hoe (gen.),PROPN,general
+plough,ʃité’,plough,NOUN,general
+sickle,àbây,sickle,VERB,general
+threshing,ʃaŋgot,threshing,VERB,general
+bundle,muno’,bundle,NOUN,general
+"compound,
+house",aholoŋ,"compound, house",PROPN,general
+entrance hut,áɓî,entrance hut,NOUN,general
+doorway,wó ɓî,doorway,NOUN,general
+door,wó holoŋ,door,NOUN,general
+fence (gen.),ari,fence (gen.),PROPN,general
+stone wall,"ánjâr, tugór",stone wall,NOUN,general
+house,lá,house,PROPN,general
+grass hut,àbùt,grass hut,NOUN,general
+room,túk,room,NOUN,general
+wall (of house),kandí,wall (of house),PROPN,general
+roof,awár,roof,NOUN,general
+veranda,bak,veranda,PROPN,general
+"ruin (of a
+building)",gifír,ruin (of a building),NOUN,general
+abandoned compound,gifír,abandoned compound,VERB,general
+bench,gírìŋ,bench,NOUN,general
+chair,awutyaw á mumûn,chair,NOUN,general
+bed,hâyná,bed,NOUN,general
+mat,kábálàŋ,mat,NOUN,general
+blanket,fata’,blanket,NOUN,general
+granary,"kandiriŋ, pùk, yèn",granary,NOUN,general
+rubbish heap,boŋa,rubbish heap,NOUN,general
+well,tindó’,well,ADV,general
+"vessel to draw
+water",hôl á yîn,vessel to draw water,NOUN,general
+"storage pot
+(gen.)",àlâŋ,storage pot (gen.),NOUN,general
+"broom, besom",àwâs,"broom, besom",PROPN,general
+soap,kileŋ,soap,NOUN,general
+bottle,andú,bottle,NOUN,general
+lamp,kàyàŋ,lamp,NOUN,general
+clay-pit,boŋa,clay-pit,NOUN,general
+mud-brick,là’,mud-brick,NOUN,general
+fire,mwan,fire,NOUN,general
+flame,alés á mwan,flame,NOUN,general
+"fire-place, hearth",andêŋ,"fire-place, hearth",NOUN,general
+firewood,àwùr á mwan,firewood,PROPN,general
+pile of firewood,faŋ á àwùr,pile of firewood,NOUN,general
+smoke,gilel,smoke,VERB,general
+ashes,"múrûf (cold a.),",ashes,NOUN,general
+axe (gen.),agayá,axe (gen.),PROPN,general
+handle,ruŋgul,handle,VERB,general
+cooking pot,muʃet á àtòl,cooking pot,NOUN,general
+"water carrying
+pot","àlâŋ, tumbi",water carrying pot,NOUN,general
+water storage pot,"àlâŋ, tumbi",water storage pot,NOUN,general
+cup,"kíkyâw, àrede",cup,PROPN,general
+dish,kwâŋ,dish,NOUN,general
+knife,yiʃúk,knife,NOUN,general
+spoon,àkúte,spoon,NOUN,general
+stirring stick,asú’,stirring stick,NOUN,general
+grinding stone,fùfùn,grinding stone,VERB,general
+upper stone,aní’,upper stone,NOUN,general
+mortar,kuɗúŋ,mortar,NOUN,general
+pestle,agúm,pestle,VERB,general
+winnow,kaɓúr,winnow,NOUN,general
+calabash (gen.),haw,calabash (gen.),PROPN,general
+"lid (circular
+mat)",muful,lid (circular mat),PROPN,general
+calabash sp.,haw,calabash sp.,NOUN,general
+bottle gourd,andú,bottle gourd,NOUN,general
+bag (gen.),folo,bag (gen.),PROPN,general
+bundle (gen.),no’,bundle (gen.),PROPN,general
+food,wuɗéŋ,food,NOUN,general
+mush,awás,mush,NOUN,general
+gruel,àfyè,gruel,NOUN,general
+"sauce, soup,
+stew",kiliŋ,"sauce, soup, stew",NOUN,general
+"corn, grain",ʃinjá,"corn, grain",NOUN,general
+flour,wòt,flour,NOUN,general
+oil,mar,oil,NOUN,general
+palm oil,mar á maʃín,palm oil,NOUN,general
+fat,fiɗól,fat,ADJ,general
+butter,mar á randóŋ,butter,NOUN,general
+foam,afwós,foam,NOUN,general
+salt,fyáw,salt,NOUN,general
+pepper,ambore,pepper,NOUN,general
+beer pot (gen.),màlìs’àlàŋ à ʃú,beer pot (gen.),NOUN,general
+beer (gen.),aʃú,beer (gen.),PROPN,general
+filter (for beer),acicák,filter (for beer),PROPN,general
+clothes,fatá’,clothes,NOUN,general
+cap,akámbùt,cap,NOUN,general
+"robe (man's
+gown)",fatá’,robe (man's gown),NOUN,general
+"belt, girdle","ànor, àjùk (women's belt), àwàrdàm (men)","belt, girdle",PROPN,general
+penis sheath,yiʃwál,penis sheath,NOUN,general
+"woman's
+loincloth","àwàl (front), árè’ (back)",woman's loincloth,NOUN,general
+"scarf
+(headcloth)",rurwan,scarf (headcloth),PROPN,general
+head-pad,hât,head-pad,NOUN,general
+"shoe, sandal",kpakasak,"shoe, sandal",ADJ,general
+walking stick,"ahó’ (men), ʃàw (women)",walking stick,VERB,general
+ring (finger),ʃùk,ring (finger),PROPN,general
+bracelet,ʃùk,bracelet,NOUN,general
+necklace,hirol,necklace,NOUN,general
+"earring (ear-
+plug)",àgur á gùt,earring (ear- plug),NOUN,general
+beads,karɓwe,beads,NOUN,general
+needle,baŋgyer,needle,NOUN,general
+cotton,árurúk,cotton,NOUN,general
+thread,yêr,thread,PROPN,general
+dye,ɓirís,dye,NOUN,general
+plaiting,ɗumó,plaiting,VERB,general
+basket (gen.),cèt,basket (gen.),PROPN,general
+mat (gen.),kabálaŋ,mat (gen.),PROPN,general
+rope (gen.),yèr,rope (gen.),PROPN,general
+knot,cuná:l,knot,NOUN,general
+leather,áre’,leather,NOUN,general
+skin,áre’,skin,NOUN,general
+"pricker, awl",ɓaŋger,"pricker, awl",PROPN,general
+tan,lotál,tan,PROPN,general
+"smithery, forge",muleʃ,"smithery, forge",NOUN,general
+blacksmith,naáf á dûk cef,blacksmith,PROPN,general
+furnace,jil á dûk cef,furnace,NOUN,general
+bellows,fukút,bellows,VERB,general
+blaze,alés á mwan,blaze,VERB,general
+charcoal,aŋga’,charcoal,NOUN,general
+ash,múrûf,ash,NOUN,general
+iron (metal),cef,iron (metal),NOUN,general
+iron-ore,cef á lwa’,iron-ore,NOUN,general
+anvil,"àtis á muleʃ, huhúl",anvil,NOUN,general
+hammer,"mariŋgi’ (modern hammer), dukúlum (round stone)",hammer,NOUN,general
+tongs (a pair of-),ŋâw,tongs (a pair of-),NOUN,general
+chain,ajíjek,chain,NOUN,general
+chisel,mutyé’,chisel,NOUN,general
+clay,là’,clay,NOUN,general
+kiln,jil á fot là’,kiln,NOUN,general
+pot (gen.),muʃét,pot (gen.),NOUN,general
+handle of pot,joól,handle of pot,NOUN,general
+"spout, nozzle",ɓò,"spout, nozzle",NOUN,general
+adze,mutyé’,adze,NOUN,general
+carve wood,fâl,carve wood,NOUN,general
+wood,àwutyaw,wood,NOUN,general
+sculpture,fálàl,sculpture,NOUN,general
+market,jil á musó’,market,NOUN,general
+trade,juwíl,trade,NOUN,general
+money,cef,money,NOUN,general
+cowry,karɓwe,cowry,VERB,general
+bag,folo,bag,NOUN,general
+merchant (gen.),naáf á juwíl,merchant (gen.),PROPN,general
+butcher,naáf á hyewát liw,butcher,PROPN,general
+loss,fúrùl,loss,NOUN,general
+debt,wulél,debt,NOUN,general
+journey,yât,journey,NOUN,general
+lorry,púrí mú mbwan,lorry,NOUN,general
+load,gula,load,NOUN,general
+relative,anyát,relative,ADJ,general
+ancestor,"adá a kalaŋ, adá à nvo’",ancestor,PROPN,general
+father,adá,father,PROPN,general
+father my,adítyen,father my,PROPN,general
+father your,"adítya, adítyeʃ",father your,VERB,general
+"father his,
+father her","adítyes, adítyet","father his, father her",PROPN,general
+mother,yaáŋ,mother,NOUN,general
+mother my,yaáŋ sin,mother my,NOUN,general
+mother your,yaáŋ sa,mother your,NOUN,general
+"mother his, mother her","yaáŋ sis, yaáŋ sit","mother his, mother her",NOUN,general
+child,"wí, pl. únôn",child,NOUN,general
+"boy, son",wí má narí,"boy, son",PROPN,general
+daughter,wí útasiŋgí,daughter,PROPN,general
+baby,àkalijiw,baby,NOUN,general
+husband,ná:ri,husband,NOUN,general
+woman,"nufwi, pl. asiŋgí",woman,NOUN,general
+wife,nufwi a ɗirí,wife,NOUN,general
+co-wife,jàmsìt,co-wife,NOUN,general
+"brother, elder",jaren á mban,"brother, elder",NOUN,general
+"brother,
+younger",jaren a vát,"brother, younger",PROPN,general
+"sister, elder",cinesin á mbwan,"sister, elder",NOUN,general
+"sister, younger",cinesin a vát,"sister, younger",PROPN,general
+"mother's
+brother",ʃiʃín,mother's brother,NOUN,general
+father's brother,jares á diten,father's brother,NOUN,general
+mother's sister,cinísit tí yasín,mother's sister,NOUN,general
+father's sister,ànísis tá diten,father's sister,NOUN,general
+grandmother,yáŋ ta diten,grandmother,NOUN,general
+grandfather,ada á diten,grandfather,NOUN,general
+grandson,wí à wítyen,grandson,NOUN,general
+granddaughter,wí ti wítyen,granddaughter,NOUN,general
+senior,mámban,senior,ADJ,general
+in-law,ahén,in-law,ADP,general
+mother-in-law,àkày,mother-in-law,NOUN,general
+father-in-law,ahén,father-in-law,PROPN,general
+sister-in-law,àkày,sister-in-law,NOUN,general
+bride,nufi a hway,bride,NOUN,general
+bridegroom,nare a hway,bridegroom,PROPN,general
+bachelor,naáf á ɗàhòlòŋ,bachelor,NOUN,general
+"maiden, virgin",wí tasiŋgí,"maiden, virgin",PROPN,general
+orphan,mucén,orphan,NOUN,general
+widow,lèn,widow,NOUN,general
+lineage,arés,lineage,NOUN,general
+clan,arés,clan,PROPN,general
+white man,"masárá, malwya",white man,NOUN,general
+poor,naáf á lèl,poor,ADJ,general
+rich,àgòm,rich,ADJ,general
+slave,muhór,slave,NOUN,general
+guest (stranger),aró,guest (stranger),PROPN,general
+midwife,nufwi á mûs gír,midwife,PROPN,general
+age-mate,waya,age-mate,NOUN,general
+age-group,waya,age-group,NOUN,general
+marriage,ɗiri,marriage,NOUN,general
+dowry,safát,dowry,ADV,general
+twin,anjân,twin,ADJ,general
+chief,sàf,chief,NOUN,general
+king,sàf,king,NOUN,general
+queen,àkwìr (most beloved wife),queen,PROPN,general
+"chieftaincy,
+(reign)",gôm,"chieftaincy, (reign)",NOUN,general
+royal family,hòrò,royal family,NOUN,general
+royal council,kòcòk á hòrò,royal council,NOUN,general
+palace,"lá tí sàf, lá hòrò",palace,NOUN,general
+tribut,gondo,tribut,ADV,general
+law,málè’,law,NOUN,general
+"offence,
+violation",tyêk ɓúr,"offence, violation",NOUN,general
+court,la a ɓúr,court,NOUN,general
+compensation,tálàl,compensation,NOUN,general
+defend,"fâŋ, ʃetâl",defend,VERB,general
+"judge, pass a
+sentence",sîk ɓúr,"judge, pass a sentence",VERB,general
+divorce,"ɗwal (leave husband), makar",divorce,NOUN,general
+theft,anjirát,theft,NOUN,general
+murder,dukwal hai,murder,NOUN,general
+thief,àcer,thief,NOUN,general
+drum (gen.),àŋgəŋgàŋ,drum (gen.),PROPN,general
+"drum (hour
+glass)",útàŋgəŋgàŋ (small drum),drum (hour glass),NOUN,general
+drumstick,awutyaw á cye àŋgəŋgàŋ,drumstick,ADJ,general
+rattle,úcákây,rattle,VERB,general
+bell,guŋgoréŋ,bell,NOUN,general
+horn,"njel (small), rugbá (big)",horn,VERB,general
+raft-zither,ɗìŋ,raft-zither,PROPN,general
+dance (gen.),"agó, ahsír",dance (gen.),PROPN,general
+masquerade,tàrɓwàʃ,masquerade,VERB,general
+song,agó,song,NOUN,general
+feast (gen.),àgot,feast (gen.),PROPN,general
+priest (gen.),naáf á tàrɓwàʃ,priest (gen.),PROPN,general
+rainmaker,sàf á fo’,rainmaker,NOUN,general
+diviner,woró,diviner,NOUN,general
+"sorcerer,
+wizard","naáf abá:n, naáf á kaɗir","sorcerer, wizard",NOUN,general
+witchcraft,wó’ abá:n,witchcraft,NOUN,general
+ordeal,"wara:t, sêr",ordeal,NOUN,general
+god (high),àdá: fàt,god (high),PROPN,general
+masquerades,"ùrùn, màŋgà:m, munja, anjákawá:, tàrɓwàʃ, andòŋ, úkùk",masquerades,NOUN,general
+ghost,aʃilím,ghost,NOUN,general
+spirit of a place,máhurúl,spirit of a place,PROPN,general
+personal spirit,alú’,personal spirit,NOUN,general
+charm,ɓût wuɗén (charm to protect seeds),charm,NOUN,general
+"world or place
+of dead",naf á ndìk,world or place of dead,NOUN,general
+sacrifice (gen.),wòràt,sacrifice (gen.),PROPN,general
+circumcision,nyâf tá únôn,circumcision,NOUN,general
+death,môt,death,NOUN,general
+unnatural death,mótòt á guyât,unnatural death,NOUN,general
+corpse,wû:n,corpse,NOUN,general
+grave (tomb),yífof,grave (tomb),PROPN,general
+funeral,ɓûr,funeral,PROPN,general
+second funeral,vô jíl,second funeral,NOUN,general
+"facial markings,
+scarification",alé’,"facial markings, scarification",NOUN,general
+soul,alú’,soul,NOUN,general
+taboo,"málè’, lé’",taboo,NOUN,general
+book,hu’ á woróŋ,book,PROPN,general
+"medicine man, herbalist",worá,"medicine man, herbalist",NOUN,general
+medicine,ácu:r,medicine,NOUN,general
+poison,ácu:r,poison,NOUN,general
+cough,ʃèm,cough,PROPN,general
+fever,àlámwàn,fever,NOUN,general
+"sore, wound",àlèw,"sore, wound",ADJ,general
+scar,ndasak,scar,NOUN,general
+abscess,rûf,abscess,PROPN,general
+pus,"àyìn á rûf, àyìn á mburíʃ",pus,PROPN,general
+disease (gen.),mót,disease (gen.),PROPN,general
+malaria,alámwan,malaria,PROPN,general
+dysentery,"makú:s, kàfò:r",dysentery,VERB,general
+nature,lá:,nature,NOUN,general
+world,lá:,world,NOUN,general
+sky,afit,sky,NOUN,general
+star,ʃinjórè,star,PROPN,general
+evening star,àkwìr tí ɗumbwás,evening star,NOUN,general
+north star,úʃoŋé’,north star,PROPN,general
+Pleiades,únó rìnày,pleiades,NOUN,general
+Orion,ʃukwá à púrí,orion,NOUN,general
+moon (month),ɗumbwás,moon (month),PROPN,general
+sun,fat,sun,PROPN,general
+rainbow,àtá màhòn,rainbow,NOUN,general
+wind,hut,wind,NOUN,general
+storm,àwúrà,storm,NOUN,general
+cloud (gen.),aréféf,cloud (gen.),PROPN,general
+rain cloud,aréféf,rain cloud,NOUN,general
+rain,yuhun,rain,NOUN,general
+lightning,nzilwít,lightning,NOUN,general
+thunder,ndùrùm,thunder,NOUN,general
+hail,ʃir,hail,NOUN,general
+dew,"ʃinjir, muná:la",dew,NOUN,general
+harmattan,hût rîn,harmattan,PROPN,general
+"dust cloud
+(fog) of harmattan",aɓúk,dust cloud (fog) of harmattan,NOUN,general
+south,ɓwyáw,south,ADJ,general
+north,ɓwyáw,north,NOUN,general
+west,jínikáʃ,west,PROPN,general
+east,ɗaháyaʃ,east,PROPN,general
+side,ɓwyáw,side,NOUN,general
+year,wíl,year,NOUN,general
+wet season,fì,wet season,NOUN,general
+"dryness, aridity",humbíl,"dryness, aridity",PROPN,general
+time,huron,time,NOUN,general
+day,rin,day,NOUN,general
+daylight,ta: rin,daylight,NOUN,general
+shade,célè’,shade,NOUN,general
+shadow,àʃìlim,shadow,NOUN,general
+dawn,tá húnjil áʃe’,dawn,NOUN,general
+morning,tá húnjil,morning,NOUN,general
+noon,tá rín,noon,NOUN,general
+evening,tà mwànàt,evening,NOUN,general
+night,màfò’,night,NOUN,general
+darkness,bîŋ,darkness,NOUN,general
+tomorrow,húnjil,tomorrow,NOUN,general
+yesterday,áŋgâ,yesterday,NOUN,general
+today,rúmày,today,NOUN,general
+"days of the
+week (gen.)",muná:ní,days of the week (gen.),NOUN,general
+last year,àmbwà tísát munâ:,last year,NOUN,general
+next year,ùfòt tísat,next year,NOUN,general
+past,ànvó á ʃaʃ,past,ADJ,general
+"country
+(region)",hòrò,country (region),NOUN,general
+ground,"la’, ndìk",ground,NOUN,general
+border,mukáráy,border,NOUN,general
+town,hòrò,town,NOUN,general
+village,hwéŋ,village,NOUN,general
+road,ta:r,road,NOUN,general
+path (way),ta:r á ʃi,path (way),NOUN,general
+bridge,"mé’, tàʃ, mágigíŋ",bridge,PROPN,general
+water,àyîn,water,NOUN,general
+spring (of water),"yirí àyîn, muhayat",spring (of water),NOUN,general
+river,àlè’,river,NOUN,general
+seasonal river,pok,seasonal river,NOUN,general
+riverbank,wo:le,riverbank,PROPN,general
+lake (pond),curuŋgul,lake (pond),PROPN,general
+marsh(land),dìdèŋ,marsh(land),PROPN,general
+"swamp, morass",rubón,"swamp, morass",NOUN,general
+mountain,àràm,mountain,NOUN,general
+hill,úyirí,hill,PROPN,general
+rock,"aram, áyí, támbà",rock,NOUN,general
+cave,tí:r,cave,VERB,general
+clay,là’,clay,NOUN,general
+sand,anjór,sand,NOUN,general
+fine sand,anjór,fine sand,NOUN,general
+"coarse sand,
+gravel",ʃòrôŋ,"coarse sand, gravel",VERB,general
+laterite,ahók,laterite,ADJ,general
+stone,áyí,stone,NOUN,general
+pebble,háʃàr,pebble,ADJ,general
+dust,ɓú:rà,dust,NOUN,general
+flow,múɗòr,flow,VERB,general
+shine (beam),ndâ,shine (beam),VERB,general
+white,ma fel,white,ADJ,general
+blue,mâ:fon ndi’ndí’,blue,ADJ,general
+black,mâ:fon tínyá’,black,ADJ,general
+red,ma lwya,red,ADJ,general
+"green (blue like
+leaves)",arúrùm,green (blue like leaves),PROPN,general
+1,hâ:m,1,NUM,general
+2,wùl,2,NUM,general
+3,kpán,3,NUM,general
+4,pú’,4,NUM,general
+5,hárá,5,NUM,general
+6,hárâm,6,NUM,general
+7,melo’,7,NUM,general
+8,fúɗêt,8,NUM,general
+9,yelâm,9,NUM,general
+10,háhárá,10,NUM,general
+11,(háhárá) mulgwá hâ:m,11,NUM,general
+12,"(háhárá) mulgwá wùl, re’",12,NUM,general
+13,(háhárá) mulgwá kpán,13,NUM,general
+14,(háhárá) mulgwá pú’,14,NUM,general
+15,(háhárá) mulgwá hárá,15,NUM,general
+16,(háhárá) mulgwá hárâm,16,NUM,general
+17,(háhárá) mulgwá melo’,17,NUM,general
+18,(háhárá) mulgwá fúɗet,18,NUM,general
+19,(háhárá) mulgwá yelâm,19,NUM,general
+20,háhárá wùl,20,NUM,general
+21,háhárá wùl tú hâ:m,21,NUM,general
+30,háhárá kpán,30,NUM,general
+40,háhárá pú’,40,NUM,general
+50,háhárá hárá,50,NUM,general
+60,háhárá hárâm,60,NUM,general
+70,háhárá melo’,70,NUM,general
+80,háhárá fúɗêt,80,NUM,general
+90,háhárá yelâm,90,NUM,general
+100,ndìk,100,NUM,general
+200,ndìk wùl,200,NUM,general
+500,ndìk hárá,500,NUM,general
+1000,ndìk wuri áʃaʃ háhárá,1000,NUM,general
+"abuse, insult",ʃíràl,"abuse, insult",NOUN,general
+accompany (escort),gyát lá,accompany (escort),VERB,general
+accustom,manay ti,accustom,PROPN,general
+agree,mun,agree,VERB,general
+allow,mun,allow,VERB,general
+answer,mun,answer,VERB,general
+"appear, come
+out",hôf lá,"appear, come out",VERB,general
+argue,(gyer) ʃweʃ,argue,VERB,general
+arrive,ndôk,arrive,VERB,general
+ask (question),lul,ask (question),VERB,general
+"avoid, abstain
+from",mun gwa,"avoid, abstain from",VERB,general
+"bake, burn, fire",fot,"bake, burn, fire",PROPN,general
+barter,kiŋger,barter,NOUN,general
+bathe,ʃínjâ,bathe,VERB,general
+be able,sjen,be able,AUX,general
+be astonished,yor,be astonished,VERB,general
+be still,man mbá,be still,AUX,general
+be tired,ʃwaál,be tired,AUX,general
+beat (gen.),dûk,beat (gen.),PROPN,general
+beat drum,cí’ alilíŋ,beat drum,VERB,general
+become,mâ:n,become,VERB,general
+become fat,ku’,become fat,VERB,general
+become old,hwêr,become old,VERB,general
+"beg, ask for","fwal, kabok","beg, ask for",VERB,general
+beget [zeugen],gîr wí,beget [zeugen],PROPN,general
+begin,furál,begin,VERB,general
+bend,lúwìʃ tí,bend,VERB,general
+bite,gôr,bite,VERB,general
+bite a piece off,goral tá gu:r,bite a piece off,VERB,general
+blow (mouth),fû’,blow (mouth),NOUN,general
+blow (wind),rîn,blow (wind),VERB,general
+boil (up),fos,boil (up),VERB,general
+borrow,hôf,borrow,VERB,general
+bow down,magu’,bow down,VERB,general
+bow down,magu’ á ndìk,bow down,VERB,general
+branch,wêl,branch,NOUN,general
+break (stick),sîk,break (stick),PROPN,general
+"break, smash
+(pot)",hará’,"break, smash (pot)",PROPN,general
+breathe,mafôs,breathe,VERB,general
+brew,ɓôr aʃú,brew,VERB,general
+bring,gulâ hí,bring,VERB,general
+build (house),ɓét,build (house),VERB,general
+burn (tr.),tulal mwan,burn (tr.),VERB,general
+buy,hyew,buy,VERB,general
+call (summon),lal,call (summon),VERB,general
+carry (load),tjek gulá,carry (load),VERB,general
+carry child,huru’,carry child,VERB,general
+carry fire,"têk mwan, hôl mwan",carry fire,VERB,general
+catch,gjer,catch,VERB,general
+catch up,wod mwát á kwès,catch up,VERB,general
+cease,taŋ,cease,NOUN,general
+change,ʃên lá,change,VERB,general
+chase,ŋgâr yé’,chase,NOUN,general
+cheat,dâŋ,cheat,VERB,general
+chew,wó’ ti,chew,VERB,general
+"choose, select",sakat,"choose, select",VERB,general
+chop down (tree),háy,chop down (tree),VERB,general
+cohabit,ká nufuy,cohabit,NOUN,general
+"combine, join",ʃilîm,"combine, join",VERB,general
+come,kán ɗuúʃ,come,VERB,general
+conquer,wó’ hòrò,conquer,NOUN,general
+cook,tòl,cook,VERB,general
+cough,gbùk,cough,PROPN,general
+count,mbi’,count,NOUN,general
+cover (a pot),vo,cover (a pot),VERB,general
+crawl,kambút,crawl,NOUN,general
+cross,lugwát,cross,VERB,general
+"cultivate, till",hasí,"cultivate, till",VERB,general
+cut,sík,cut,VERB,general
+cut (with knife),sík,cut (with knife),VERB,general
+cut down,háy,cut down,VERB,general
+cut marks,sîk alé’,cut marks,VERB,general
+dance,"jìk, ʃir, go",dance,NOUN,general
+decrease (intr.),ɗyu’âl,decrease (intr.),NOUN,general
+defecate,fí,defecate,ADJ,general
+deny,"gisen, ɓiŋgil",deny,VERB,general
+descend,ɗôr,descend,VERB,general
+destroy,tûl lá,destroy,VERB,general
+die,môt,die,VERB,general
+dig,"tem, yaw",dig,VERB,general
+"dig, excavate",yaw,"dig, excavate",VERB,general
+dip in,sugwát ɗen,dip in,NOUN,general
+"disperse
+(scatter) (intr.)",ɓa:s tí,disperse (scatter) (intr.),VERB,general
+dive,nzalek,dive,NOUN,general
+divide (share out),kar,divide (share out),VERB,general
+draw water,hôl áyîn,draw water,VERB,general
+"draw, pull out",ndô lá,"draw, pull out",VERB,general
+dream,na ámbár,dream,NOUN,general
+drink,del,drink,VERB,general
+drip,ndâ:l,drip,VERB,general
+drive away,ŋgâr,drive away,VERB,general
+drop,wáàt,drop,VERB,general
+dry up,sinzyé,dry up,VERB,general
+dry up (in sun),"ɓâ:s lá, nzé’ lá",dry up (in sun),VERB,general
+dwell,mumun,dwell,PROPN,general
+eat,wo’,eat,VERB,general
+embrace,kutûm,embrace,VERB,general
+embroider,nyêr tá:l,embroider,NOUN,general
+emigrate,gâ:l,emigrate,VERB,general
+enter,roát,enter,VERB,general
+equalize,sigá’,equalize,VERB,general
+escape,pwêt,escape,VERB,general
+examine,"mba, ŋgwalal",examine,VERB,general
+exceed,"pakal, vuá:t",exceed,VERB,general
+"exchange
+(goods)",ʃen,exchange (goods),NOUN,general
+explain,fâr tí,explain,VERB,general
+extinguish (tr.),ndêk lá,extinguish (tr.),PROPN,general
+fall,fûr,fall,NOUN,general
+fan,vît,fan,NOUN,general
+fear,kucir,fear,VERB,general
+feed,wo’ tísi (‘),feed,NOUN,general
+feel,hal,feel,VERB,general
+ferment,nyêr,ferment,ADJ,general
+fight,mbàyàt,fight,VERB,general
+fill,kyalakal,fill,VERB,general
+"filter, strain","cicak, tis","filter, strain",VERB,general
+find,kwa:lí,find,VERB,general
+finish,marál,finish,NOUN,general
+fish,gyâr goʃé,fish,NOUN,general
+fly,lú’ (fit),fly,VERB,general
+fold,kwît,fold,VERB,general
+follow,gulá a wí,follow,VERB,general
+forbid,cà,forbid,VERB,general
+forge,dûk cef,forge,NOUN,general
+forget,watal a tèmá,forget,VERB,general
+freeze,záùmì,freeze,VERB,general
+fry,faŋ,fry,PROPN,general
+"gather, collect","sô’, suɓut","gather, collect",VERB,general
+germinate,"mbya, ro",germinate,NOUN,general
+give,ndi,give,VERB,general
+give back,tun tál,give back,VERB,general
+"give birth
+(child)",gir wí,give birth (child),VERB,general
+"glide, slip",tundúl,"glide, slip",NOUN,general
+gnaw,gora:l,gnaw,PROPN,general
+go (to),mwat,go (to),VERB,general
+go out,pâk lá,go out,VERB,general
+"go up, mount",rê’,"go up, mount",VERB,general
+greet,ton,greet,NOUN,general
+grind,ní’,grind,VERB,general
+grow,lá’,grow,VERB,general
+hang down,no’ gyolgyol,hang down,VERB,general
+hang up,no’ ti hule’,hang up,VERB,general
+harvest,"hôm, karat",harvest,NOUN,general
+hate,gisél,hate,VERB,general
+heal,wotót,heal,VERB,general
+hear,hal,hear,VERB,general
+help,bum,help,VERB,general
+hide (intr.),malat,hide (intr.),VERB,general
+hide (tr.),latál la,hide (tr.),VERB,general
+"hit, punch","cí’, kûm","hit, punch",VERB,general
+hold (s.t.),gjeral,hold (s.t.),VERB,general
+hollow out,huk lá,hollow out,VERB,general
+hunt,wâr,hunt,NOUN,general
+hurry,ŋgâ:s,hurry,VERB,general
+increase (intr.),walâ:l,increase (intr.),VERB,general
+jump,fîs,jump,NOUN,general
+kick,ŋgwâk,kick,VERB,general
+kill,"dukwál a hái, sakát (slaughter)",kill,VERB,general
+knead,laŋgá’,knead,ADJ,general
+kneel down,tula rún,kneel down,VERB,general
+know (s.o.),sjen,know (s.o.),VERB,general
+know (s.th.),sjen,know (s.th.),VERB,general
+lack,kwâ:l gwa,lack,NOUN,general
+land,ɗor,land,NOUN,general
+leak,nyêf,leak,NOUN,general
+"learn, imitate",sjên,"learn, imitate",VERB,general
+leave,yôn,leave,VERB,general
+lend,hôf,lend,VERB,general
+lick,lo’,lick,PROPN,general
+lie (tell lies),far lan,lie (tell lies),NOUN,general
+lie down,yína ndìk,lie down,VERB,general
+lift,tekat í fit,lift,VERB,general
+limp,ʃigyá:k,limp,ADJ,general
+live,mafôs,live,ADJ,general
+look at,ŋgwalal wo,look at,VERB,general
+loosen,kutá lá laŋlaŋ,loosen,VERB,general
+lose (s.t.),"nuk tí, wa’ tí",lose (s.t.),VERB,general
+lose one’s way,manûk,lose one’s way,VERB,general
+laugh,legát,laugh,VERB,general
+make (do),sál,make (do),VERB,general
+make a basket,ɗumó cèt,make a basket,VERB,general
+"make, braid rope",huriʃ,"make, braid rope",VERB,general
+marry,kuŋgo,marry,VERB,general
+"mature,
+become ripe",ni,"mature, become ripe",VERB,general
+measure,mbâ:,measure,NOUN,general
+meet,tôf ká,meet,VERB,general
+melt,nî lá,melt,VERB,general
+milk,fóf,milk,NOUN,general
+mix,laŋgá’,mix,VERB,general
+mould (pot),ɓet muʃét,mould (pot),PROPN,general
+"move, stir
+(intr.)",yeral,"move, stir (intr.)",NOUN,general
+obey,hâl tón,obey,VERB,general
+open (door),ɓwalí,open (door),ADJ,general
+open (mouth),ɓwalí,open (mouth),NOUN,general
+pass (by),pâk tí,pass (by),VERB,general
+pay (for),tâ:l,pay (for),VERB,general
+peel,biʃé’,peel,NOUN,general
+pick,taŋ,pick,VERB,general
+pierce,bukál,pierce,VERB,general
+pile (up),so’al háy,pile (up),NOUN,general
+plait hair,tindîl háy,plait hair,NOUN,general
+"plant (e.g.
+tomato)",cun,plant (e.g. tomato),NOUN,general
+play,nyinyáʃ,play,VERB,general
+pluck out,mgbya,pluck out,VERB,general
+"possess, have",tál,"possess, have",VERB,general
+"pound, stamp",dúk,"pound, stamp",NOUN,general
+pour (in),kûs tí,pour (in),VERB,general
+pour out,kusá ti,pour out,VERB,general
+pray,kabók fa:t,pray,VERB,general
+prepare tuwo,tòl,prepare tuwo,VERB,general
+"press, hold
+down",tjerál,"press, hold down",VERB,general
+prick,tûl,prick,VERB,general
+protect,faŋ,protect,VERB,general
+pull,ndô,pull,VERB,general
+push,tuŋgwát,push,VERB,general
+put,gîr,put,VERB,general
+put in,"gîr tí, gîr ɗjen",put in,VERB,general
+reach,ndôk,reach,VERB,general
+read,mbí’,read,VERB,general
+receive,mus,receive,VERB,general
+reckon,ʃilim ambi’ la,reckon,VERB,general
+refuse,gi- + suffix,refuse,VERB,general
+remain,kâ:t,remain,VERB,general
+remember,mbi’,remember,VERB,general
+repeat,"tunâl háy, tasál ti",repeat,VERB,general
+resemble,sôl fátì,resemble,VERB,general
+rest,mafôs,rest,VERB,general
+"return, come
+back",tûn tí,"return, come back",VERB,general
+ride,nyarék púrí,ride,VERB,general
+ridge up,far á hasí,ridge up,VERB,general
+roast (grill),fot,roast (grill),NOUN,general
+roll,máʃiír,roll,NOUN,general
+"rot, decay",njérèl,"rot, decay",VERB,general
+round off,talâs,round off,ADV,general
+rub,ʃukút,rub,PROPN,general
+rub off,hûk lá,rub off,VERB,general
+run,nyêf,run,VERB,general
+say,ne,say,VERB,general
+scatter (tr.),karat,scatter (tr.),PROPN,general
+scrape,kuŋgós,scrape,VERB,general
+scratch,kuŋgós,scratch,NOUN,general
+see,ryál,see,VERB,general
+seek,ha’,seek,VERB,general
+seize,tikal,seize,VERB,general
+sell,hyewâ:t,sell,VERB,general
+send (s.o. to do s.t.),gyaát,send (s.o. to do s.t.),VERB,general
+separate,kâr tí,separate,ADJ,general
+set bones,nó’ ŋgìʃyàwaʃ,set bones,VERB,general
+set trap,deŋ ɗáŋgór,set trap,VERB,general
+sew,sôr,sew,VERB,general
+shake,yeral,shake,VERB,general
+sharpen,ci’ál,sharpen,NOUN,general
+shoot,basík,shoot,VERB,general
+shout,gu’ jólwò,shout,VERB,general
+show (s.t.),kof tí,show (s.t.),PROPN,general
+"shut, close",vo,"shut, close",PROPN,general
+sing,magó,sing,VERB,general
+sit (down),man mumun,sit (down),VERB,general
+skin,lamó’,skin,NOUN,general
+sleep,mwaát ɗiná,sleep,NOUN,general
+smell,ndo,smell,NOUN,general
+smell,sundo,smell,NOUN,general
+"smoke
+(tobacco)",del tá:bà,smoke (tobacco),NOUN,general
+sneeze,dìʃ,sneeze,VERB,general
+snore,hiŋgar,snore,VERB,general
+sow,sut,sow,VERB,general
+"sow (seeds in
+holes)",fé’ arés,sow (seeds in holes),VERB,general
+spend long time,yáʃ,spend long time,VERB,general
+spin (thread),lom,spin (thread),NOUN,general
+spit,yila,spit,PROPN,general
+"split, chop into
+pieces",bák,"split, chop into pieces",VERB,general
+spread out,karat tí,spread out,VERB,general
+"spread out in
+sun to dry",ɓas,spread out in sun to dry,VERB,general
+squat,magu’,squat,NOUN,general
+"squeeze, wring out",huríʃ,"squeeze, wring out",VERB,general
+stab (spear),tûl,stab (spear),PROPN,general
+stand,zar,stand,VERB,general
+stand up,lifit muzar,stand up,VERB,general
+steal,njir,steal,VERB,general
+"stick, push into
+the ground",ŋgwak á ndìk,"stick, push into the ground",VERB,general
+strike fire,fú’ mwan,strike fire,NOUN,general
+strip off,biʃé’,strip off,VERB,general
+suck,nzaɓwet,suck,VERB,general
+suffer,del ʃùm,suffer,VERB,general
+swallow,ɗulat,swallow,ADV,general
+swear,seɗáàt,swear,VERB,general
+sweat,tundoy,sweat,NOUN,general
+sweep,wâs,sweep,VERB,general
+swell (intr.),kú’,swell (intr.),VERB,general
+swim,bîm,swim,VERB,general
+take,tek,take,VERB,general
+"take away,
+remove",tjek lá,"take away, remove",VERB,general
+talk,findel,talk,VERB,general
+taste,hâl,taste,NOUN,general
+teach,kôf tí,teach,VERB,general
+tear (tr.),wyâ tí,tear (tr.),PROPN,general
+tell,far,tell,VERB,general
+thank,palaŋ,thank,VERB,general
+think,"mbi’, ben findel",think,VERB,general
+thresh,"ʃaŋgot, dúk",thresh,PROPN,general
+throw (gen.),wu’,throw (gen.),VERB,general
+throw (stone),wú’,throw (stone),VERB,general
+throw spear,yây táy,throw spear,VERB,general
+tie (with rope),nô’,tie (with rope),VERB,general
+tie knot,cunál,tie knot,NOUN,general
+touch,ŋgyal,touch,NOUN,general
+travel,ɗát yât,travel,NOUN,general
+tremble,yá:rì,tremble,NOUN,general
+try,wod mwát,try,VERB,general
+turn (round),ʃirâl,turn (round),VERB,general
+turn round (intr.),ʃiral,turn round (intr.),VERB,general
+twist,húrîʃ,twist,NOUN,general
+unload,tjek gulá la,unload,VERB,general
+untie,kutá lá,untie,ADJ,general
+urinate,njar,urinate,VERB,general
+vomit,hwâʃ,vomit,VERB,general
+wait,zar,wait,VERB,general
+walk,yát,walk,VERB,general
+want,fûk,want,VERB,general
+warm (o.s.) up,tefán yící,warm (o.s.) up,ADJ,general
+wash (body),ʃínjâ,wash (body),NOUN,general
+wash (clothes),ʃinjâ tìndà,wash (clothes),VERB,general
+"wash, clear, clean",ʃínjâ,"wash, clear, clean",NOUN,general
+wear (clothes),kûs,wear (clothes),VERB,general
+weave,ɗumó,weave,VERB,general
+weed,yará:l,weed,NOUN,general
+weep (cry),ho,weep (cry),VERB,general
+"wet, be",lo,"wet, be",AUX,general
+"wet, make",kusál ayîn,"wet, make",VERB,general
+whistle,susé’,whistle,ADJ,general
+widen (hole),walal baŋ,widen (hole),PROPN,general
+winnow,vît fo’,winnow,NOUN,general
+"winnow, fan",vit,"winnow, fan",PROPN,general
+wipe,hûk,wipe,VERB,general
+work,sál amás,work,VERB,general
+"wrap, envelop",kwît,"wrap, envelop",VERB,general
+write,woróŋ,write,VERB,general
+I just came,yín kán ɗuúʃ,i just came,VERB,general
+I am coming,yin ma ɗuúʃ,i am coming,VERB,general
+"I am grateful, 
+I am thankful",yin palang fwet,"i am grateful, i am thankful",AUX,general
+Thank you very much,palang fwet,thank you very much,VERB,general
+Love,fuk,love,NOUN,general
+I love you,"yin fuk tish, yin fuk tya",i love you,VERB,general
+you love me,ya fuk yin,you love me,VERB,general
+we love,ni fuk,we love,VERB,general

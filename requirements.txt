@@ -1,0 +1,21 @@
+# Core API framework
+fastapi==0.116.2
+uvicorn==0.35.0
+
+# Data handling
+pandas==2.3.2
+
+# NLP / Embeddings
+sentence_transformers==4.1.0
+torch>=2.2.0
+transformers>=4.40.0
+pydantic==2.11.9
+
+# Optional: for preprocessing (POS tagging in clean_data.py)
+spacy==3.8.7
+# Uncomment if you want the small English model auto-installed
+# en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+# Or install manually from the terminal using: python -m spacy download en_core_web_sm
+
+# Others
+more_itertools==10.8.0
