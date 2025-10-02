@@ -1,9 +1,9 @@
 ## This is a translator application for a low resource language of Manguna district, Bokkos LGA of Plateau state, Nigeria
 
-### Create virtual environment. This project didn't have a virtual environment when it was developed but it is recommended you have one
-python -m venv venv
-source venv/bin/activate  # activate virtual env. on Linux/Mac
-venv\Scripts\activate     # activate virtual env. on Windows
+### Create virtual environment
+python -m venv ron_venv
+source ron_venv/bin/activate  # activate virtual env. on Linux/Mac
+ron_venv\Scripts\activate     # activate virtual env. on Windows
 
 ### Install dependencies
 pip install -r requirements.txt
