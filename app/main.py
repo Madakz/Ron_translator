@@ -17,7 +17,7 @@ logger = logging.getLogger("uvicorn.error")
 
 app = FastAPI(
     title="Ron Translator API",
-    description="Translate English <-> Ron with dictionary, phrase match, and retrieval fallback.",
+    description="Translate English to Ron And Vice Versa",
     version="0.2.0"
 )
 

@@ -1,0 +1,68 @@
+english,ron,domain,pos
+hello!,shikam!,greetings,general
+good morning,shikam kúro,greetings,general
+good evening,shikam mána,greetings,general
+how are you?,atan rúmày?,greetings,general
+how do you do?,atan rúmày?,greetings,general
+it’s nice to meet you,a ji shikam,greetings,general
+"welcome, friend","shikam, maɗafal",greetings,general
+are you fine?,àtàn rúmày dá?,greetings,general
+we are fine,naf á rúmày,greetings,general
+i want to buy yam,á mí nàn fùs nàny,market,general
+i want to buy goat,á mí nàn fùs átsiŋ,market,general
+i want to buy cloth,á mí nàn fùs àtàmpul,market,general
+how much is this?,híŋ dà?,market,general
+give me two yams,à bèr nàny pí,market,general
+reduce the price,kúrá shí,market,general
+do you have goat?,à ká átsiŋ dá?,market,general
+"yes, i have","éh, mí ká",market,general
+i am sick,á mí ròsh,health,general
+my head hurts,shísh mí á jìŋ,health,general
+my stomach pains,kúf mí á jìŋ,health,general
+do you have medicine?,à ká àshè dá?,health,general
+i need water,á mí nàn nùm,health,general
+the child is coughing,nufuy á kòr,health,general
+i am feeling better,á mí rúmày,health,general
+where is the clinic?,à shí nàshpítì?,health,general
+where is the road?,à shí kúndù?,travel,general
+where is the market?,à shí shíngà?,travel,general
+i want to go to jos,á mí nàn rúmà jos,travel,general
+how far is the school?,nà shí kúndù dá?,travel,general
+is this the right road?,à kúndù shí dá?,travel,general
+stop here,bèr nàn,travel,general
+go straight,rúmà dàn,travel,general
+turn left,kúrá shí,travel,general
+turn right,kúrá dá,travel,general
+the teacher is here,málám á nàn,school,general
+the student is writing,nufuy á kúrá,school,general
+we are learning ron,naf á shí ron,school,general
+i am reading a book,á mí shí nàlì,school,general
+where is the classroom?,à shí kúrá?,school,general
+the children are singing,nufuy á rúmà,school,general
+open your book,kúrà nàlì mí,school,general
+close the door,kúrà kùtù,school,general
+"teacher, explain again","málám, bèr rúmà",school,general
+i want to buy yam,á mí nàn fùs nàny,market,general
+how much is this yam?,híŋ nàny dá?,market,general
+do you have yam?,à ká nàny dá?,market,general
+give me two yams,à bèr nàny pí,market,general
+i want to buy goat,á mí nàn fùs átsiŋ,market,general
+how much is this goat?,híŋ átsiŋ dá?,market,general
+do you have goat?,à ká átsiŋ dá?,market,general
+give me two goats,à bèr átsiŋ pí,market,general
+i want to buy cloth,á mí nàn fùs àtàmpul,market,general
+how much is this cloth?,híŋ àtàmpul dá?,market,general
+do you have cloth?,à ká àtàmpul dá?,market,general
+give me two cloths,à bèr àtàmpul pí,market,general
+i want to buy dress,á mí nàn fùs fúm,market,general
+how much is this dress?,híŋ fúm dá?,market,general
+do you have dress?,à ká fúm dá?,market,general
+give me two dresss,à bèr fúm pí,market,general
+i want to buy fish,á mí nàn fùs ànshì,market,general
+how much is this fish?,híŋ ànshì dá?,market,general
+do you have fish?,à ká ànshì dá?,market,general
+give me two fishs,à bèr ànshì pí,market,general
+i want to buy book,á mí nàn fùs nàlì,market,general
+how much is this book?,híŋ nàlì dá?,market,general
+do you have book?,à ká nàlì dá?,market,general
+give me two books,à bèr nàlì pí,market,general
